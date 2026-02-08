@@ -66,7 +66,7 @@ Before running this project, ensure you have:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ritvij611/Triggrs-chat.git
+git clone https://github.com/romamishra30/TriggrsChat/tree/main/Triggrs-chat-main
 cd Triggrs-chat
 ```
 
